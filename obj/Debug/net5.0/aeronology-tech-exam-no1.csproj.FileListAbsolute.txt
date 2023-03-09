@@ -1,0 +1,16 @@
+D:\vscode-workspace\csharp\aeronology-tech-exam-no1\bin\Debug\net5.0\aeronology-tech-exam-no1.exe
+D:\vscode-workspace\csharp\aeronology-tech-exam-no1\bin\Debug\net5.0\aeronology-tech-exam-no1.deps.json
+D:\vscode-workspace\csharp\aeronology-tech-exam-no1\bin\Debug\net5.0\aeronology-tech-exam-no1.runtimeconfig.json
+D:\vscode-workspace\csharp\aeronology-tech-exam-no1\bin\Debug\net5.0\aeronology-tech-exam-no1.runtimeconfig.dev.json
+D:\vscode-workspace\csharp\aeronology-tech-exam-no1\bin\Debug\net5.0\aeronology-tech-exam-no1.dll
+D:\vscode-workspace\csharp\aeronology-tech-exam-no1\bin\Debug\net5.0\ref\aeronology-tech-exam-no1.dll
+D:\vscode-workspace\csharp\aeronology-tech-exam-no1\bin\Debug\net5.0\aeronology-tech-exam-no1.pdb
+D:\vscode-workspace\csharp\aeronology-tech-exam-no1\obj\Debug\net5.0\aeronology-tech-exam-no1.csproj.AssemblyReference.cache
+D:\vscode-workspace\csharp\aeronology-tech-exam-no1\obj\Debug\net5.0\aeronology-tech-exam-no1.GeneratedMSBuildEditorConfig.editorconfig
+D:\vscode-workspace\csharp\aeronology-tech-exam-no1\obj\Debug\net5.0\aeronology-tech-exam-no1.AssemblyInfoInputs.cache
+D:\vscode-workspace\csharp\aeronology-tech-exam-no1\obj\Debug\net5.0\aeronology-tech-exam-no1.AssemblyInfo.cs
+D:\vscode-workspace\csharp\aeronology-tech-exam-no1\obj\Debug\net5.0\aeronology-tech-exam-no1.csproj.CoreCompileInputs.cache
+D:\vscode-workspace\csharp\aeronology-tech-exam-no1\obj\Debug\net5.0\aeronology-tech-exam-no1.dll
+D:\vscode-workspace\csharp\aeronology-tech-exam-no1\obj\Debug\net5.0\ref\aeronology-tech-exam-no1.dll
+D:\vscode-workspace\csharp\aeronology-tech-exam-no1\obj\Debug\net5.0\aeronology-tech-exam-no1.pdb
+D:\vscode-workspace\csharp\aeronology-tech-exam-no1\obj\Debug\net5.0\aeronology-tech-exam-no1.genruntimeconfig.cache
